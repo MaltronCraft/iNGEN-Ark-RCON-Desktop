@@ -21,4 +21,4 @@ You could also use this to set a custom refresh interval on the playerlist. Runn
 - Automatic Updates, with the ability to override
 - System Tray icon. Minimize or close to the system tray - Check out General Settings.
 
-#www.arkrcon.co.uk
+#www.arkrcon.co.uk (Original creators website is no longer up.)
